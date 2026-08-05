@@ -1,0 +1,18 @@
+{
+  "version": "1.0.3",
+  "installer_urls": [
+    {
+      "name": "GitHub Releases",
+      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.3/ChengYaoTools_v1.0.3_Setup.exe"
+    }
+  ],
+  "sha256": "0a86049324ddf6b44ef77ecbc8edf1d9c8465eb9f552968ab8162419339f2f9e",
+  "size": 528398276,
+  "notes": [
+    "新增安全在线更新",
+    "支持启动自动检查与侧栏手动检查",
+    "支持国内镜像优先与 GitHub 自动回退",
+    "更新安装包下载完成后自动校验"
+  ],
+  "mandatory": false
+}
