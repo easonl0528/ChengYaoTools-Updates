@@ -4,11 +4,11 @@
 
 ## 当前版本
 
-- 版本：v1.0.3
+- 版本：v1.0.4
 - 更新清单：[latest.json](./latest.json)
-- 国内镜像：[腾讯云 COS](https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.3_Setup.exe)
+- 国内镜像：[腾讯云 COS](https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.4_Setup.exe)
 - 备用下载：[GitHub Releases](https://github.com/easonl0528/ChengYaoTools-Updates/releases/latest)
-- SHA-256：`0A86049324DDF6B44EF77ECBC8EDF1D9C8465EB9F552968AB8162419339F2F9E`
+- SHA-256：`DB4F216EC62F2D9EC1B3FAE55DB2BB31214A5949F9DEEF33ED1316B3C9546487`
 
 ## 更新方式
 
