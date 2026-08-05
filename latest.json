@@ -2,6 +2,10 @@
   "version": "1.0.3",
   "installer_urls": [
     {
+      "name": "腾讯云 COS 国内镜像",
+      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.3_Setup.exe"
+    },
+    {
       "name": "GitHub Releases",
       "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.3/ChengYaoTools_v1.0.3_Setup.exe"
     }
