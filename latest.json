@@ -1,20 +1,21 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "installer_urls": [
     {
       "name": "腾讯云 COS 国内镜像",
-      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.4_Setup.exe"
+      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.5_Setup.exe"
     },
     {
       "name": "GitHub Releases",
-      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.4/ChengYaoTools_v1.0.4_Setup.exe"
+      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.5/ChengYaoTools_v1.0.5_Setup.exe"
     }
   ],
-  "sha256": "db4f216ec62f2d9ec1b3fae55db2bb31214a5949f9deef33ed1316b3c9546487",
-  "size": 528412543,
+  "sha256": "6dd3c323f76bf37e30e8921aca158267c3dcbf18911c7462834cfa407c845e01",
+  "size": 528419646,
   "notes": [
-    "短视频下载完成后可直接打开下载文件夹",
-    "修复检查更新窗口关闭按钮附近的紫色透明光圈"
+    "视频转字幕新增 Large V3 Turbo 精准模式、Silero VAD 语音检测和专业词提示",
+    "AI 图片去背景新增 BiRefNet 1024px 精准模式，改善人物肢体、发丝和复杂边缘识别",
+    "精准模型首次使用时从腾讯云国内线路按需下载，支持断点续传和完整性校验，之后可离线使用"
   ],
   "mandatory": false
 }
