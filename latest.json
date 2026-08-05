@@ -1,22 +1,20 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "installer_urls": [
     {
       "name": "腾讯云 COS 国内镜像",
-      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.3_Setup.exe"
+      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.4_Setup.exe"
     },
     {
       "name": "GitHub Releases",
-      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.3/ChengYaoTools_v1.0.3_Setup.exe"
+      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.4/ChengYaoTools_v1.0.4_Setup.exe"
     }
   ],
-  "sha256": "0a86049324ddf6b44ef77ecbc8edf1d9c8465eb9f552968ab8162419339f2f9e",
-  "size": 528398276,
+  "sha256": "db4f216ec62f2d9ec1b3fae55db2bb31214a5949f9deef33ed1316b3c9546487",
+  "size": 528412543,
   "notes": [
-    "新增安全在线更新",
-    "支持启动自动检查与侧栏手动检查",
-    "支持国内镜像优先与 GitHub 自动回退",
-    "更新安装包下载完成后自动校验"
+    "短视频下载完成后可直接打开下载文件夹",
+    "修复检查更新窗口关闭按钮附近的紫色透明光圈"
   ],
   "mandatory": false
 }
