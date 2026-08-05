@@ -1,21 +1,21 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "installer_urls": [
     {
       "name": "腾讯云 COS 国内镜像",
-      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.5_Setup.exe"
+      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.6_Setup.exe"
     },
     {
       "name": "GitHub Releases",
-      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.5/ChengYaoTools_v1.0.5_Setup.exe"
+      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.6/ChengYaoTools_v1.0.6_Setup.exe"
     }
   ],
-  "sha256": "6dd3c323f76bf37e30e8921aca158267c3dcbf18911c7462834cfa407c845e01",
-  "size": 528419646,
+  "sha256": "6124d5492f7b6a9c8e894d12c63a683ad6194491f39e2f68e9b5b86c56910d78",
+  "size": 528410446,
   "notes": [
-    "视频转字幕新增 Large V3 Turbo 精准模式、Silero VAD 语音检测和专业词提示",
-    "AI 图片去背景新增 BiRefNet 1024px 精准模式，改善人物肢体、发丝和复杂边缘识别",
-    "精准模型首次使用时从腾讯云国内线路按需下载，支持断点续传和完整性校验，之后可离线使用"
+    "视频、音频、图片和短视频处理完成后，可打开文件夹并自动定位到结果文件",
+    "放大并强化处理完成通知，打开与稍后操作更加醒目",
+    "四个处理页面的进度条和开始按钮固定在底部，添加大量文件时无需滚动寻找"
   ],
   "mandatory": false
 }
