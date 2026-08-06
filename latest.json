@@ -1,21 +1,34 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.8",
   "installer_urls": [
     {
       "name": "腾讯云 COS 国内镜像",
-      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.6_Setup.exe"
-    },
-    {
-      "name": "GitHub Releases",
-      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.6/ChengYaoTools_v1.0.6_Setup.exe"
+      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.8_Setup.exe"
     }
   ],
-  "sha256": "6124d5492f7b6a9c8e894d12c63a683ad6194491f39e2f68e9b5b86c56910d78",
-  "size": 528410446,
+  "sha256": "10a3836933c165104cb6534849aaf56a13006e685a4985850ca8c482e2cf9768",
+  "size": 528823484,
+  "patches": [
+    {
+      "from": "1.0.7",
+      "urls": [
+        {
+          "name": "腾讯云 COS 国内镜像",
+          "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.7_to_v1.0.8_Patch.zip"
+        }
+      ],
+      "sha256": "45bf3c7309db90191e44886a955f13c4174a4a0dfa0e6a97c929eddbfbe298be",
+      "size": 200632006
+    }
+  ],
   "notes": [
-    "视频、音频、图片和短视频处理完成后，可打开文件夹并自动定位到结果文件",
-    "放大并强化处理完成通知，打开与稍后操作更加醒目",
-    "四个处理页面的进度条和开始按钮固定在底部，添加大量文件时无需滚动寻找"
+    "使用紫色场记板原图作为全新应用图标",
+    "完成通知增加 10 秒倒计时进度条并自动收起",
+    "GIF 使用调色板优化编码并支持压缩到指定 MB，避免输出异常膨胀",
+    "视频宽高新增比例锁，9:16 下输入宽度 720 会自动得到高度 1280",
+    "视频、音频、图片处理完成后自动清空已选文件",
+    "图片功能区按内容自适应高度，窄窗口自动切换两列布局",
+    "v1.0.7 用户优先下载轻量重启补丁，其他版本使用完整安装包"
   ],
   "mandatory": false
 }
