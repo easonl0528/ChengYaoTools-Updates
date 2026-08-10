@@ -1,34 +1,41 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "installer_urls": [
     {
+      "name": "GitHub Releases",
+      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.9_Setup.exe"
+    },
+    {
       "name": "腾讯云 COS 国内镜像",
-      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.8_Setup.exe"
+      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.9_Setup.exe"
     }
   ],
-  "sha256": "10a3836933c165104cb6534849aaf56a13006e685a4985850ca8c482e2cf9768",
-  "size": 528823484,
+  "sha256": "6136795c8c6938df8b65efb5e05cfdd8ed79048cd9353ac475cbd9458a3276eb",
+  "size": 528846600,
   "patches": [
     {
-      "from": "1.0.7",
+      "from": "1.0.8",
       "urls": [
         {
+          "name": "GitHub Releases",
+          "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
+        },
+        {
           "name": "腾讯云 COS 国内镜像",
-          "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.7_to_v1.0.8_Patch.zip"
+          "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
         }
       ],
-      "sha256": "45bf3c7309db90191e44886a955f13c4174a4a0dfa0e6a97c929eddbfbe298be",
-      "size": 200632006
+      "sha256": "509680892743a5e2f06247609683303061f229f5fbd1587e5c57bbcb906b7e21",
+      "size": 200657944
     }
   ],
   "notes": [
-    "使用紫色场记板原图作为全新应用图标",
-    "完成通知增加 10 秒倒计时进度条并自动收起",
-    "GIF 使用调色板优化编码并支持压缩到指定 MB，避免输出异常膨胀",
-    "视频宽高新增比例锁，9:16 下输入宽度 720 会自动得到高度 1280",
-    "视频、音频、图片处理完成后自动清空已选文件",
-    "图片功能区按内容自适应高度，窄窗口自动切换两列布局",
-    "v1.0.7 用户优先下载轻量重启补丁，其他版本使用完整安装包"
+    "图片压缩改为每张精准不超过指定 KB，批量处理逐张校验",
+    "视频格式转换移除 GIF 输出，保留 MP4、MOV、MKV 和 WebM",
+    "“视频转字幕”更名为“视频文案提取”，继续输出 TXT 文案与 SRT 字幕",
+    "新增系统工具页，整合网络诊断、网络修复、DNS 与低频桌面角标设置",
+    "优化系统工具布局与确认窗口在 Windows 缩放下的稳定性",
+    "已安装 v1.0.8 可使用轻量补丁，重启后生效"
   ],
   "mandatory": false
 }
