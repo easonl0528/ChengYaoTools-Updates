@@ -2,15 +2,23 @@
   "version": "1.0.9",
   "installer_urls": [
     {
-      "name": "国内加速 1",
+      "name": "GitHub 加速 1",
+      "url": "https://gh-proxy.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.9_Setup.exe"
+    },
+    {
+      "name": "GitHub 加速 2",
+      "url": "https://pd.zwc365.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.9_Setup.exe"
+    },
+    {
+      "name": "GitHub 加速 3",
       "url": "https://github.xxlab.tech/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.9_Setup.exe"
     },
     {
-      "name": "国内加速 2",
+      "name": "GitHub 加速 4",
       "url": "https://gh.xy.do/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.9_Setup.exe"
     },
     {
-      "name": "国内加速 3",
+      "name": "GitHub 加速 5",
       "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.9_Setup.exe"
     },
     {
@@ -25,15 +33,23 @@
       "from": "1.0.8",
       "urls": [
         {
-          "name": "国内加速 1",
+          "name": "GitHub 加速 1",
+          "url": "https://gh-proxy.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
+        },
+        {
+          "name": "GitHub 加速 2",
+          "url": "https://pd.zwc365.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
+        },
+        {
+          "name": "GitHub 加速 3",
           "url": "https://github.xxlab.tech/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
         },
         {
-          "name": "国内加速 2",
+          "name": "GitHub 加速 4",
           "url": "https://gh.xy.do/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
         },
         {
-          "name": "国内加速 3",
+          "name": "GitHub 加速 5",
           "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
         },
         {
