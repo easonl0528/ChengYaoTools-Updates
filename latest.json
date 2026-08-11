@@ -2,12 +2,20 @@
   "version": "1.0.9",
   "installer_urls": [
     {
-      "name": "GitHub Releases",
-      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.9_Setup.exe"
+      "name": "国内加速 1",
+      "url": "https://github.xxlab.tech/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.9_Setup.exe"
     },
     {
-      "name": "腾讯云 COS 国内镜像",
-      "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.9_Setup.exe"
+      "name": "国内加速 2",
+      "url": "https://gh.xy.do/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.9_Setup.exe"
+    },
+    {
+      "name": "国内加速 3",
+      "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.9_Setup.exe"
+    },
+    {
+      "name": "GitHub Releases",
+      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.9_Setup.exe"
     }
   ],
   "sha256": "6136795c8c6938df8b65efb5e05cfdd8ed79048cd9353ac475cbd9458a3276eb",
@@ -17,12 +25,20 @@
       "from": "1.0.8",
       "urls": [
         {
-          "name": "GitHub Releases",
-          "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
+          "name": "国内加速 1",
+          "url": "https://github.xxlab.tech/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
         },
         {
-          "name": "腾讯云 COS 国内镜像",
-          "url": "https://chengyao-tools-updates-1257980096.cos.ap-guangzhou.myqcloud.com/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
+          "name": "国内加速 2",
+          "url": "https://gh.xy.do/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
+        },
+        {
+          "name": "国内加速 3",
+          "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
+        },
+        {
+          "name": "GitHub Releases",
+          "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.9/ChengYaoTools_v1.0.8_to_v1.0.9_Patch.zip"
         }
       ],
       "sha256": "509680892743a5e2f06247609683303061f229f5fbd1587e5c57bbcb906b7e21",
