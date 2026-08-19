@@ -1,51 +1,46 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "installer_urls": [
     {
       "name": "GitHub 国内加速 1",
-      "url": "https://gh-proxy.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.11_Setup.exe"
+      "url": "https://gh-proxy.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.12/ChengYaoTools_v1.0.12_Setup.exe"
     },
     {
       "name": "GitHub 国内加速 2",
-      "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.11_Setup.exe"
+      "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.12/ChengYaoTools_v1.0.12_Setup.exe"
     },
     {
       "name": "GitHub Releases",
-      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.11_Setup.exe"
+      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.12/ChengYaoTools_v1.0.12_Setup.exe"
     }
   ],
-  "sha256": "acdd737a5d6da8e0da2dfcb74c0ad75936de65548ecdf03c30021a56e07fb033",
-  "size": 555118563,
+  "sha256": "b99320e2436a83069bc431b1af5101647ba1a034fcd7da1864ca8897ce5d0ff1",
+  "size": 555120913,
   "patches": [
     {
-      "from": "1.0.10",
+      "from": "1.0.11",
       "urls": [
         {
           "name": "GitHub 国内加速 1",
-          "url": "https://gh-proxy.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.10_to_v1.0.11_Patch.zip"
+          "url": "https://gh-proxy.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.12/ChengYaoTools_v1.0.11_to_v1.0.12_Patch.zip"
         },
         {
           "name": "GitHub 国内加速 2",
-          "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.10_to_v1.0.11_Patch.zip"
+          "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.12/ChengYaoTools_v1.0.11_to_v1.0.12_Patch.zip"
         },
         {
           "name": "GitHub Releases",
-          "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.10_to_v1.0.11_Patch.zip"
+          "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.12/ChengYaoTools_v1.0.11_to_v1.0.12_Patch.zip"
         }
       ],
-      "sha256": "0c4ee2eddae739a8aaeef43070e319cf7cbde5038276ba30aabda6476483fee9",
-      "size": 242194263
+      "sha256": "818499a02eb6c1ea217fd9ea86faaae9e599fef9257f3bfa8f691085261f11d0",
+      "size": 200740909
     }
   ],
   "notes": [
-    "修复抖音新版分享链接解析，兼容新版网页动态数据",
-    "更新微博解析：默认免 Cookie，旧接口作为备用线路",
-    "更新 YouTube 解析环境，内置 Deno 与脚本组件",
-    "复查并验证小红书、哔哩哔哩、皮皮虾、最右等现有平台链路",
-    "新增自由画布裁切、图片 90 度旋转和可拖动的 1:1 宫格裁切区域",
-    "重整图片工作台入口，图片分割作为独立编辑功能",
-    "已安装 v1.0.10 可使用轻量补丁，重启后生效"
+    "修复 v1.0.11 左侧导航标题消失的问题",
+    "修复所有导航图标错误显示为同一个默认图标的问题",
+    "已安装 v1.0.11 可使用轻量补丁，重启后生效"
   ],
   "mandatory": false
 }
-
