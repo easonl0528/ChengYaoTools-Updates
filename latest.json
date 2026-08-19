@@ -1,73 +1,51 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "installer_urls": [
     {
-      "name": "GitHub 加速 1",
-      "url": "https://gh-proxy.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.10_Setup.exe"
+      "name": "GitHub 国内加速 1",
+      "url": "https://gh-proxy.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.11_Setup.exe"
     },
     {
-      "name": "GitHub 加速 2",
-      "url": "https://pd.zwc365.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.10_Setup.exe"
-    },
-    {
-      "name": "GitHub 加速 3",
-      "url": "https://github.xxlab.tech/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.10_Setup.exe"
-    },
-    {
-      "name": "GitHub 加速 4",
-      "url": "https://gh.xy.do/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.10_Setup.exe"
-    },
-    {
-      "name": "GitHub 加速 5",
-      "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.10_Setup.exe"
+      "name": "GitHub 国内加速 2",
+      "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.11_Setup.exe"
     },
     {
       "name": "GitHub Releases",
-      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.10_Setup.exe"
+      "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.11_Setup.exe"
     }
   ],
-  "sha256": "2ec4dec6d9e5c4c629b39a7245391c6944691b5689327d15b6f7df6ee740a871",
-  "size": 528869992,
+  "sha256": "acdd737a5d6da8e0da2dfcb74c0ad75936de65548ecdf03c30021a56e07fb033",
+  "size": 555118563,
   "patches": [
     {
-      "from": "1.0.9",
+      "from": "1.0.10",
       "urls": [
         {
-          "name": "GitHub 加速 1",
-          "url": "https://gh-proxy.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.9_to_v1.0.10_Patch.zip"
+          "name": "GitHub 国内加速 1",
+          "url": "https://gh-proxy.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.10_to_v1.0.11_Patch.zip"
         },
         {
-          "name": "GitHub 加速 2",
-          "url": "https://pd.zwc365.com/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.9_to_v1.0.10_Patch.zip"
-        },
-        {
-          "name": "GitHub 加速 3",
-          "url": "https://github.xxlab.tech/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.9_to_v1.0.10_Patch.zip"
-        },
-        {
-          "name": "GitHub 加速 4",
-          "url": "https://gh.xy.do/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.9_to_v1.0.10_Patch.zip"
-        },
-        {
-          "name": "GitHub 加速 5",
-          "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.9_to_v1.0.10_Patch.zip"
+          "name": "GitHub 国内加速 2",
+          "url": "https://ghfast.top/https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.10_to_v1.0.11_Patch.zip"
         },
         {
           "name": "GitHub Releases",
-          "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.10/ChengYaoTools_v1.0.9_to_v1.0.10_Patch.zip"
+          "url": "https://github.com/easonl0528/ChengYaoTools-Updates/releases/download/v1.0.11/ChengYaoTools_v1.0.10_to_v1.0.11_Patch.zip"
         }
       ],
-      "sha256": "8b74d38b356ad547d63201b0aa9d6a38115d04e0e9accd33a2cafa5a16b799a4",
-      "size": 200673637
+      "sha256": "0c4ee2eddae739a8aaeef43070e319cf7cbde5038276ba30aabda6476483fee9",
+      "size": 242194263
     }
   ],
   "notes": [
-    "新增独立图片分割工作台，支持纵向长图、横向图片和自定义宫格分割",
-    "分割线可直接在真实图片画布中拖动，支持自定义数量、精确像素、撤销和重做",
-    "图片默认完整适应窗口，鼠标滚轮可围绕指向位置缩放，放大后可滚动查看",
-    "图片分割成功后自动返回图片工作台，并保留完成提示与打开定位功能",
-    "优化所有页面的完成、错误和取消提示，倒计时条不再越过弹窗圆角",
-    "已安装 v1.0.9 可使用轻量补丁，重启后生效"
+    "修复抖音新版分享链接解析，兼容新版网页动态数据",
+    "更新微博解析：默认免 Cookie，旧接口作为备用线路",
+    "更新 YouTube 解析环境，内置 Deno 与脚本组件",
+    "复查并验证小红书、哔哩哔哩、皮皮虾、最右等现有平台链路",
+    "新增自由画布裁切、图片 90 度旋转和可拖动的 1:1 宫格裁切区域",
+    "重整图片工作台入口，图片分割作为独立编辑功能",
+    "已安装 v1.0.10 可使用轻量补丁，重启后生效"
   ],
   "mandatory": false
 }
+
